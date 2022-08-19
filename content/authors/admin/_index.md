@@ -1,8 +1,7 @@
 ---
 title: Austin Landini
 role: Postdoctoral Research Fellow
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Economics PhD, Colorado State University, Summer 2022
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -42,8 +41,5 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Dr. Landini has eight years of teaching experience beginning in Spring 2014 and with students spanning from ages 12- Masters. My teaching assignments have included lecturer positions at Auburn University, The University of Iowa, Johns Hopkins Center for Talented Youth, Colorado State University, and University of Missouri-Columbia. He has designed and implemented at least six different courses at the university level ranging from introductory to senior and graduate level.

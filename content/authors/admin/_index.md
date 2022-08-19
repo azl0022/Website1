@@ -28,15 +28,15 @@ organizations:
     url: https://dass.missouri.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Economics
+      institution: Colorado State University
+      year: 2022
+    - course: MS in Economics
+      institution: Auburn University
+      year: 2014
+    - course: BBA in Economics
+      institution: The University of Iowa
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 email: ""
 superuser: true
 highlight_name: true

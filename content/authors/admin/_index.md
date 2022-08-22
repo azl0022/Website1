@@ -41,6 +41,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+Austin Landini is a Summer 2022 Economics PhD graduate from Colorado State University. For the 2022-2023 academic year, he is a Post Doctoral Research Fellow at the University of Missouri-Columbia. In his free time, Austin enjoys sports, travel, camping, and learning languages.
 
+Topics of research include public expenditure and taxation, measurement of economic opportunity, experimental economics, business formation and growth, access to capital and GIS mapping. For his research on public expenditure and tax, he was awarded the 36th annual Charles M. Tiebout Prize for best graduate authored paper in regional economics at the Western Regional Science Association.
 
 Dr. Landini has eight years of teaching experience beginning in Spring 2014 and with students spanning from ages 12- Masters. My teaching assignments have included lecturer positions at Auburn University, The University of Iowa, Johns Hopkins Center for Talented Youth, Colorado State University, and University of Missouri-Columbia. He has designed and implemented at least six different courses at the university level ranging from introductory to senior and graduate level.

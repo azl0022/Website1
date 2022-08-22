@@ -4,25 +4,23 @@ role: Postdoctoral Research Fellow
 avatar_filename: avatar.jpg
 bio: Economics PhD, Colorado State University, Summer 2022
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Demographics
+  - Inequality
+  - Behavior
+  - Mapping
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: austin.landini@missouri.edu
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/citations?user=5sw4xhkAAAAJ&hl=en
+  - icon: youtube
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: www.youtube.com/austinlandiniecon
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/austin-landini-42a4a36b
 organizations:
   - name: University of Missouri-Columbia
     url: https://dass.missouri.edu/

@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: Stata
   - description:
-    icon: person-chalkboard
+    icon: fa-person-chalkboard
     icon_pack: fas
     name: Teaching
 # Uncomment to use emoji icons.

@@ -22,7 +22,7 @@ social:
     link: https://www.youtube.com/channel/UCdd1zCIGtw1eaaoQPyvzXmw
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/austinlandini
+    link: https://www.linkedin.com/in/austinlandini/
 organizations:
   - name: University of Missouri-Columbia
     url: https://dass.missouri.edu/

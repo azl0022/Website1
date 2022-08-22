@@ -4,6 +4,8 @@ role: Postdoctoral Research Fellow
 avatar_filename: avatar.jpg
 bio: Economics PhD, Colorado State University, Summer 2022
 interests:
+  - Public
+  - Regional
   - Demographics
   - Inequality
   - Behavior

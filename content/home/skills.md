@@ -36,6 +36,10 @@ feature:
     icon: fa-pen-to-square
     icon_pack: fas
     name: Course Design
+   - description:
+    icon: fa-pen-to-square
+    icon_pack: fas
+    name: IRB Protocol
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

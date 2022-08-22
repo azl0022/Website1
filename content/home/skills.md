@@ -36,7 +36,7 @@ feature:
     icon: pen-field
     icon_pack: fas
     name: Course Design
-   - description:
+  - description:
     icon: nfc-magnifying-glass
     icon_pack: fas
     name: IRB Protocol

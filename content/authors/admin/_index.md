@@ -1,6 +1,6 @@
 ---
 title: Austin Landini
-role: Postdoctoral Research Fellow
+role: Postdoctoral Research Fellow austin.landini@missouri.edu
 avatar_filename: avatar.jpg
 bio: Economics PhD, Colorado State University, Summer 2022
 interests:

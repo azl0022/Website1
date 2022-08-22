@@ -28,6 +28,14 @@ feature:
     icon: fa-person-chalkboard
     icon_pack: fas
     name: Teaching
+  - description:
+    icon: fa-map-location
+    icon_pack: fas
+    name: GIS
+  - description:
+    icon: fa-pen-to-square
+    icon_pack: fas
+    name: Course Design
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

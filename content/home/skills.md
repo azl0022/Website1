@@ -25,19 +25,19 @@ feature:
     icon_pack: fas
     name: Stata
   - description:
-    icon: fa-person-chalkboard
+    icon: person-chalkboard
     icon_pack: fas
     name: Teaching
   - description:
-    icon: fa-map-location
+    icon: map-location
     icon_pack: fas
     name: GIS
   - description:
-    icon: fa-pen-to-square
+    icon: pen-field
     icon_pack: fas
     name: Course Design
    - description:
-    icon: fa-pen-to-square
+    icon: nfc-magnifying-glass
     icon_pack: fas
     name: IRB Protocol
 # Uncomment to use emoji icons.

@@ -33,11 +33,11 @@ feature:
     icon_pack: fas
     name: GIS
   - description:
-    icon: pen-field
+    icon: pen-to-square
     icon_pack: fas
     name: Course Design
   - description:
-    icon: nfc-magnifying-glass
+    icon: magnifying-glass
     icon_pack: fas
     name: IRB Protocol
 # Uncomment to use emoji icons.
